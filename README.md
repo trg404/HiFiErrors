@@ -1,0 +1,2 @@
+# HiFiErrors
+High Fidelity Errors
